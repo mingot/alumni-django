@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 pinax-project-account
 =====================
 
@@ -19,3 +20,7 @@ Getting Started:
     pip install -r requirements.txt
     python manage.py syncdb
     python manage.py runserver
+=======
+alumni-django
+=============
+>>>>>>> 52d4d7dd700e0055e45a02659d9d1e6b22b8fc92
